@@ -1,0 +1,18 @@
+# ninja log v5
+2	133	7053653189518359	CMakeFiles/netKursov2.dir/libs/linGroupCode/linGroupCode.c.obj	c8c5dcd1ca99cbe2
+11	166	7052418566432554	CMakeFiles/netKursov2.dir/libs/test/testMessage.c.obj	cb713c20438206f1
+1	738	7053655827182238	CMakeFiles/netKursov2.dir/main.c.obj	f9581d44504b5f6a
+2	89	7052418788056988	CMakeFiles/netKursov2.dir/libs/matrix/matrix.c.obj	d8f867402f2702fb
+20	176	7052418566532570	CMakeFiles/netKursov2.dir/libs/message/message.c.obj	5542e6f0749dd956
+738	899	7053655828809934	netKursov2.exe	e3842f20ccd3f1d5
+10	115	7053664322317132	CMakeFiles/netKursov2.dir/libs/menu/menu.c.obj	b91489d3f54e382f
+2	812	7053664329265394	CMakeFiles/netKursov2.dir/main.c.obj	f9581d44504b5f6a
+812	931	7053664330465939	netKursov2.exe	dc74747e520b871f
+2	98	7053664590742856	CMakeFiles/netKursov2.dir/libs/menu/menu.c.obj	b91489d3f54e382f
+98	210	7053664591838030	netKursov2.exe	dc74747e520b871f
+2	101	7053665634968099	CMakeFiles/netKursov2.dir/libs/menu/menu.c.obj	b91489d3f54e382f
+102	215	7053665636079540	netKursov2.exe	dc74747e520b871f
+2	107	7053666418314392	CMakeFiles/netKursov2.dir/libs/menu/menu.c.obj	b91489d3f54e382f
+107	220	7053666419426745	netKursov2.exe	dc74747e520b871f
+2	105	7053667141313732	CMakeFiles/netKursov2.dir/libs/menu/menu.c.obj	b91489d3f54e382f
+105	217	7053667142419769	netKursov2.exe	dc74747e520b871f
